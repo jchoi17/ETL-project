@@ -1,326 +1,326 @@
 ID,Magnitude,Waveform,Tsunami,Type,Sources,Felt,MMI,Title,URL
-",ci11408890,",1.29,ml,0,earthquake,",ci,",,,"M 1.3 - 10km SSW of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408890
-",ak10992887,ak01421ig3u,",1.1,ml,0,earthquake,",ak,ak,",,,"M 1.1 - 117km NW of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak01421ig3u
-",ak10934318,ak01421i2zj,",1.2,ml,0,earthquake,",ak,ak,",,,"M 1.2 - 6km SSW of Big Lake, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak01421i2zj
-",ak10992885,ak01421heui,",1.4,ml,0,earthquake,",ak,ak,",,,"M 1.4 - 63km NW of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak01421heui
-",usc000mnnn,",4.0,ml,0,earthquake,",us,",,,"M 4.0 - 27km WNW of Coquimbo, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/usc000mnnn
-",nc72134466,",0.53,md,0,earthquake,",nc,",,,"M 0.5 - 4km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134466
-",nc72134461,",0.7,md,0,earthquake,",nc,",,,"M 0.7 - 6km E of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134461
-",ci11408882,",0.47,ml,0,earthquake,",ci,",,,"M 0.5 - 11km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408882
-",nn00557597,",0.6,ml,0,earthquake,",nn,",,,M 0.6 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00557597
-",usb000m2w9,",4.2,mb,0,earthquake,",us,",,,M 4.2 - South of the Fiji Islands,https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2w9
-",ak10992884,ak01421dpqr,",1.8,ml,0,earthquake,",ak,ak,",,,"M 1.8 - 74km SW of Unalaska, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak01421dpqr
-",usb000m2wa,",4.2,mb,0,earthquake,",us,",,,"M 4.2 - 269km S of Amahusu, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2wa
-",uw60664506,",0.64,md,0,earthquake,",uw,",,,"M 0.6 - 12km E of Victoria, Canada",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664506
-",nn00557596,",0.3,ml,0,earthquake,",nn,",,,M 0.3 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00557596
-",pr14001004,usc000lvhk,",2.7,Md,0,earthquake,",pr,us,",,,"M 2.7 - 4km SW of Guaynabo, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr14001004
-",ci11408874,",0.3,mh,0,earthquake,",ci,",,,"M 0.3 - 10km SW of Niland, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408874
-",usc000mh9r,",4.0,md,0,earthquake,",us,",,,"M 4.0 - 18km ESE of Playa Vicente, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/usc000mh9r
-",nn00432852,",0.3,ml,0,earthquake,",nn,",,,"M 0.3 - 53km NNW of Pahrump, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00432852
-",nc72134456,",0.35,md,0,earthquake,",nc,",,,"M 0.4 - 12km SE of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134456
-",ci11408866,",1.88,ml,0,earthquake,",ci,",,,"M 1.9 - 13km W of Alberto Oviedo Mota, B.C., MX",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408866
-",nc72134451,",1.24,md,0,earthquake,",nc,",,,"M 1.2 - 1km ESE of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134451
-",nn00432850,nc72134446,",0.68,md,0,earthquake,",nn,nc,",,,"M 0.7 - 2km ESE of Bishop, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134446
-",nc72134441,",0.52,md,0,earthquake,",nc,",,,M 0.5 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134441
-",nc72134436,",1.05,md,0,earthquake,",nc,",,,"M 1.1 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134436
-",usb000m2w8,",4.6,mb,0,earthquake,",us,",,,"M 4.6 - 36km WNW of Sola, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2w8
-",nn00557595,",0.8,ml,0,earthquake,",nn,",,,M 0.8 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00557595
-",uw60664496,",-0.33,md,0,earthquake,",uw,",,,"M -0.3 - 27km NNW of Packwood, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664496
-",ci11408858,",0.53,ml,0,earthquake,",ci,",,,"M 0.5 - 5km SW of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408858
-",nc72134431,nn00432849,ci11408850,",2.51,md,0,earthquake,",nc,nn,ci,",,,"M 2.5 - 24km N of Dixon Lane-Meadow Creek, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134431
-",nc72134426,",0.54,md,0,earthquake,",nc,",,,"M 0.5 - 4km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134426
-",nn00557594,",0.4,ml,0,earthquake,",nn,",,,M 0.4 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00557594
-",nc72134421,",1.42,md,0,earthquake,",nc,",,,"M 1.4 - 5km WNW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134421
-",ci11408842,",0.45,ml,0,earthquake,",ci,",,,"M 0.5 - 20km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408842
-",nc72134411,",0.67,md,0,earthquake,",nc,",,,"M 0.7 - 6km E of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134411
-",nc72134416,",0.34,md,0,earthquake,",nc,",,,"M 0.3 - 6km E of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134416
-",nc72134406,",0.13,md,0,earthquake,",nc,",,,"M 0.1 - 7km ESE of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134406
-",usb000m2w5,",4.4,mb,0,earthquake,",us,",,,M 4.4 - Southern Mid-Atlantic Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2w5
-",ak10933810,ak01420nv25,",1.8,ml,0,earthquake,",ak,ak,",,,"M 1.8 - 32km WNW of Valdez, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak01420nv25
-",nc72134401,",0.6,md,0,earthquake,",nc,",,,"M 0.6 - 6km E of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134401
-",ak10933808,ak01420e5d8,",1.9,ml,0,earthquake,",ak,ak,",,,"M 1.9 - 57km ESE of Whittier, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak01420e5d8
-",nc72134396,",0.57,md,0,earthquake,",nc,",,,M 0.6 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134396
-",nc72134391,",0.46,md,0,earthquake,",nc,",,,"M 0.5 - 7km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134391
-",ak10933806,ak01420bray,",2.4,ml,0,earthquake,",ak,ak,",,,"M 2.4 - 82km SW of Unalaska, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak01420bray
-",nc72134386,",1.3,md,0,earthquake,",nc,",,,"M 1.3 - 7km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134386
-",nn00432847,",0.0,ml,0,earthquake,",nn,",,,M 0.0 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432847
-",ak10933803,ak0142097uf,",0.5,ml,0,earthquake,",ak,ak,",,,"M 0.5 - 1km ENE of Badger, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0142097uf
-",usb000m2w4,",4.0,mb,0,earthquake,",us,",,,"M 4.0 - 216km NW of Saumlaki, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2w4
-",nc72134381,",0.59,md,0,earthquake,",nc,",,,"M 0.6 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134381
-",ci11408834,",1.0,ml,0,earthquake,",ci,",,,"M 1.0 - 10km NE of Indio, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408834
-",usc000lvew,",4.7,mb,0,earthquake,",us,",,,"M 4.7 - 69km ENE of Amahai, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvew
-",nc72134376,",1.4,md,0,earthquake,",nc,",,,"M 1.4 - 11km SSE of Chester, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134376
-",nn00557593,",1.0,ml,0,earthquake,",nn,",,,M 1.0 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00557593
-",usc000lven,",4.5,mb,0,earthquake,",us,",,,"M 4.5 - 180km SSE of Sinabang, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lven
-",ci11408826,",1.98,ml,0,earthquake,",ci,",,,"M 2.0 - 11km W of Alberto Oviedo Mota, B.C., MX",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408826
-",ci11408810,",0.08,ml,0,earthquake,",ci,",,,"M 0.1 - 12km ENE of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408810
-",nn00557592,",1.6,ml,0,earthquake,",nn,",,,M 1.6 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00557592
-",ak10933303,ak0141zqs5j,",1.9,ml,0,earthquake,",ak,ak,",,,"M 1.9 - 72km W of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141zqs5j
-",ak10992878,ak0141znedj,",1.9,ml,0,earthquake,",ak,ak,",,,"M 1.9 - 72km E of Bear Creek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141znedj
-",hv60614426,",1.32,md,0,earthquake,",hv,",,,"M 1.3 - 13 km ENE of Honaunau-Napoopoo, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv60614426
-",nc72134371,",0.87,md,0,earthquake,",nc,",,,"M 0.9 - 3km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134371
-",nc72134366,",0.52,md,0,earthquake,",nc,",,,M 0.5 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134366
-",uw60664436,",0.71,md,0,earthquake,",uw,",,,"M 0.7 - 1km WSW of Wauna, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664436
-",nc72134361,",1.45,md,0,earthquake,",nc,",,,"M 1.5 - 2km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134361
-",ci11408802,",0.97,ml,0,earthquake,",ci,",,,"M 1.0 - 10km NE of Indio, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408802
-",nc72134356,",0.47,md,0,earthquake,",nc,",,,M 0.5 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134356
-",nc72134346,",0.63,md,0,earthquake,",nc,",,,"M 0.6 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134346
-",nn00432844,nc72134351,",1.63,md,0,earthquake,",nn,nc,",,,"M 1.6 - 13km SW of Westwood, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134351
-",ci11408794,",1.02,ml,0,earthquake,",ci,",,,"M 1.0 - 4km S of Wofford Heights, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408794
-",ak10992877,ak0141z3tbj,",2.1,ml,0,earthquake,",ak,ak,",,,"M 2.1 - 84km SW of Sand Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141z3tbj
-",ci11408786,",0.45,ml,0,earthquake,",ci,",,,"M 0.5 - 20km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408786
-",nn00433110,",0.0,ml,0,earthquake,",nn,",,,"M 0.0 - 61km WNW of Beatty, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00433110
-",ak10933282,ak0141z0he7,",2.1,ml,0,earthquake,",ak,ak,",,,"M 2.1 - 77km NNE of Redoubt Volcano, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141z0he7
-",nc72134341,",-0.01,md,0,earthquake,",nc,",,,"M 0.0 - Long Valley area, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134341
-",usc000lvdi,",4.3,mb,0,earthquake,",us,",,,"M 4.3 - 61km NW of Meulaboh, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvdi
-",ak10932788,ak0141yy0lj,",1.9,ml,0,earthquake,",ak,ak,",,,"M 1.9 - 32km WNW of Seward, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141yy0lj
-",ci11408778,",0.13,ml,0,earthquake,",ci,",,,"M 0.1 - 11km ENE of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408778
-",nc72134326,",0.28,md,0,earthquake,",nc,",,,"M 0.3 - 3km NNW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134326
-",nc72134331,",0.07,md,0,earthquake,",nc,",,,M 0.1 - Central California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134331
-",nc72134321,",0.66,md,0,earthquake,",nc,",,,"M 0.7 - 27km NE of Soledad, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134321
-",nc72134316,",0.84,md,0,earthquake,",nc,",,,M 0.8 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134316
-",ak10932785,ak0141yiwht,",1.4,ml,0,earthquake,",ak,ak,",,,"M 1.4 - 8km SSE of Willow, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141yiwht
-",ci11408770,",1.26,ml,0,earthquake,",ci,",,,"M 1.3 - 3km S of Wofford Heights, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408770
-",ld60052526,",1.88,ml,0,earthquake,",ld,",,,"M 1.9 - 8km N of Rigaud, Canada",https://earthquake.usgs.gov/earthquakes/eventpage/ld60052526
-",ak10932782,ak0141yfv0b,",1.9,ml,0,earthquake,",ak,ak,",,,"M 1.9 - 54km N of Valdez, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141yfv0b
-",nn00432945,",-0.3,ml,0,earthquake,",nn,",,,M -0.3 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432945
-",nc72134311,",0.52,md,0,earthquake,",nc,",,,"M 0.5 - 5km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134311
-",ci11408762,",0.68,ml,0,earthquake,",ci,",,,"M 0.7 - 5km S of Wofford Heights, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408762
-",ak10932779,ak0141yc0st,",1.3,ml,0,earthquake,",ak,ak,",,,"M 1.3 - 152km SSE of Tok, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141yc0st
-",nc72134306,",0.56,md,0,earthquake,",nc,",,,"M 0.6 - 6km WSW of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134306
-",nc72134296,",0.53,md,0,earthquake,",nc,",,,"M 0.5 - 3km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134296
-",nn00432944,",-0.2,ml,0,earthquake,",nn,",,,M -0.2 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432944
-",nc72135686,",0.34,md,0,earthquake,",nc,",,,"M 0.3 - 7km WSW of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72135686
-",nc71076964,",0.37,md,0,earthquake,",nc,",,,"M 0.4 - 10km W of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc71076964
-",nc71076969,",0.81,md,0,earthquake,",nc,",,,"M 0.8 - 19km W of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc71076969
-",ci11408754,",1.44,ml,0,earthquake,",ci,",,,"M 1.4 - 9km N of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408754
-",ci11408746,",0.35,ml,0,earthquake,",ci,",,,"M 0.4 - 8km NNW of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408746
-",ci11408738,",1.1,ml,0,earthquake,",ci,",,,"M 1.1 - 4km S of Wofford Heights, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408738
-",usc000lvd6,",4.7,mb,0,earthquake,",us,",,,"M 4.7 - 46km ESE of Farallon de Pajaros, Northern Mariana Islands",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvd6
-",nc72134291,",0.85,md,0,earthquake,",nc,",,,"M 0.9 - 6km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134291
-",ci11408730,",-0.05,ml,0,earthquake,",ci,",,,"M -0.1 - 10km SSW of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408730
-",uw60664401,",1.43,md,0,earthquake,",uw,",,,"M 1.4 - 2km WSW of Wauna, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664401
-",usc000lyby,ak0141xsvzt,",3.6,ml,0,earthquake,",us,ak,",,,"M 3.6 - 64km SE of Tanaga Volcano, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lyby
-",nc72134286,",1.98,md,0,earthquake,",nc,",,,"M 2.0 - 9km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134286
-",ci11408722,",0.93,ml,0,earthquake,",ci,",,,"M 0.9 - 7km NNW of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408722
-",ak10932281,ak0141xp2vj,",1.6,ml,0,earthquake,",ak,ak,",,,"M 1.6 - 34km N of Nikiski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141xp2vj
-",ak10932278,ak0141xowd6,",1.4,ml,0,earthquake,",ak,ak,",,,"M 1.4 - 119km W of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141xowd6
-",ci11408714,",1.22,ml,0,earthquake,",ci,",,,"M 1.2 - 6km WSW of Calipatria, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408714
-",hv60614356,",1.92,md,0,earthquake,",hv,",,,"M 1.9 - 14 km E of Naalehu, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv60614356
-",hv60614346,",1.97,ml,0,earthquake,",hv,",,,"M 2.0 - 11 km SSE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv60614346
-",nc72134281,",1.03,md,0,earthquake,",nc,",,,"M 1.0 - 10km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134281
-",uw60664386,",0.19,md,0,earthquake,",uw,",,,"M 0.2 - 22km S of Sequim, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664386
-",pr14001003,",1.4,Md,0,earthquake,",pr,",,,"M 1.4 - 10km SSE of Pole Ojea, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr14001003
-",usc000lvcu,",4.6,mb,0,earthquake,",us,",,4.509,"M 4.6 - 21km ESE of Pospelikha, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvcu
-",nc72134966,",0.51,md,0,earthquake,",nc,",,,"M 0.5 - 23km E of Shingletown, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134966
-",nc72134271,",1.03,md,0,earthquake,",nc,",,,"M 1.0 - 3km S of San Juan Bautista, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134271
-",nc72134266,",0.53,md,0,earthquake,",nc,",,,"M 0.5 - 5km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134266
-",hv60614331,",1.26,md,0,earthquake,",hv,",,,"M 1.3 - 19 km S of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv60614331
-",nc72134256,",0.57,md,0,earthquake,",nc,",,,M 0.6 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134256
-",usc000lvb7,",4.9,mb,0,earthquake,",us,",,,"M 4.9 - 55km NW of Abra Pampa, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvb7
-",nc72134251,",1.03,md,0,earthquake,",nc,",,,"M 1.0 - 1km NE of Shandon, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134251
-",usc000mh9l,",4.2,mb,0,earthquake,",us,",,,"M 4.2 - 63km S of Tecoanapa, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/usc000mh9l
-",pt14001000,at00myqcls,usc000lvb5,",6.5,mww,1,earthquake,",pt,at,us,",,4.262,"M 6.5 - 32km W of Sola, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvb5
-",ci11408698,",0.96,ml,0,earthquake,",ci,",,,"M 1.0 - 4km S of Wofford Heights, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408698
-",ci11408690,nc72134246,usc000lvaw,",3.02,ml,0,earthquake,",ci,nc,us,",32.0,,"M 3.0 - 5km SSW of Wofford Heights, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408690
-",ci11408682,",0.4,ml,0,earthquake,",ci,",,,"M 0.4 - 20km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408682
-",ak10931757,ak0141wqmf3,",2.1,ml,0,earthquake,",ak,ak,",,,"M 2.1 - 85km ENE of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141wqmf3
-",nc72134241,",-0.12,md,0,earthquake,",nc,",,,"M -0.1 - Long Valley area, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134241
-",ak10992867,ak0141wo8gs,",2.3,ml,0,earthquake,",ak,ak,",,,"M 2.3 - 102km ESE of Akutan, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141wo8gs
-",usb000m2w2,",4.3,mb,0,earthquake,",us,",,,"M 4.3 - 106km ESE of Manay, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2w2
-",nc72134236,",1.31,md,0,earthquake,",nc,",,,"M 1.3 - 1km NNW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134236
-",usb000m2w1,",4.6,mb,0,earthquake,",us,",,,"M 4.6 - 61km WNW of Port-Vila, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2w1
-",nc72134226,nn00432895,",0.73,md,0,earthquake,",nc,nn,",,,"M 0.7 - 16km WNW of West Bishop, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134226
-",nn00432834,",0.6,ml,0,earthquake,",nn,",,,"M 0.6 - 24km WSW of Smith Valley, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00432834
-",nc72134221,",0.68,md,0,earthquake,",nc,",,,"M 0.7 - 7km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134221
-",usc000lval,",4.9,mb,0,earthquake,",us,",,,"M 4.9 - 21km ESE of Takahagi, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lval
-",usc000lva0,",4.9,mb,0,earthquake,",us,",,,M 4.9 - East of the North Island of New Zealand,https://earthquake.usgs.gov/earthquakes/eventpage/usc000lva0
-",nc72134216,",1.42,md,0,earthquake,",nc,",,,"M 1.4 - 17km SW of Chester, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134216
-",ak10931272,ak0141vxoqy,",1.3,ml,0,earthquake,",ak,ak,",,,"M 1.3 - 109km NW of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vxoqy
-",pr14001002,",2.2,Md,0,earthquake,",pr,",,,"M 2.2 - 40km SE of Emajagua, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr14001002
-",ci11408674,",-0.07,ml,0,earthquake,",ci,",,,"M -0.1 - 11km NE of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408674
-",ak10992865,ak0141vx893,",2.5,ml,0,earthquake,",ak,ak,",,,"M 2.5 - 186km SSE of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vx893
-",ak10931270,ak0141vwz0z,",1.6,ml,0,earthquake,",ak,ak,",,,"M 1.6 - 107km NW of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vwz0z
-",usb000m2vz,",4.0,mb,0,earthquake,",us,",,,"M 4.0 - 27km W of Finschhafen, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vz
-",ci11408666,",0.52,ml,0,earthquake,",ci,",,,"M 0.5 - 18km NW of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408666
-",ak0141vlgri,",0.3,ml,0,earthquake,",ak,",,,M 0.3 - Southern Alaska,https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vlgri
-",nc72134211,",1.38,md,0,earthquake,",nc,",,,"M 1.4 - 3km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134211
-",ak10931263,",0.4,ml,0,earthquake,",ak,",,,"M 0.4 - 78km NW of Nikiski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak10931263
-",ak10931264,ak0141vjqkq,",1.7,ml,0,earthquake,",ak,ak,",,,"M 1.7 - 53km ENE of Valdez, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vjqkq
-",pr14001001,usc000lvay,",2.5,Md,0,earthquake,",pr,us,",,,"M 2.5 - 13km WNW of Rincon, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr14001001
-",ak10931261,ak0141vhrac,",1.7,ml,0,earthquake,",ak,ak,",,,"M 1.7 - 28km WSW of Ester, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vhrac
-",nc72134206,",0.36,md,0,earthquake,",nc,",,,"M 0.4 - 2km SSE of Ladera, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134206
-",ak10931258,ak0141vhakz,",2.4,ml,0,earthquake,",ak,ak,",,,"M 2.4 - 56km SSE of Akutan, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vhakz
-",ak10992859,ak0141vfked,",1.8,ml,0,earthquake,",ak,ak,",,,"M 1.8 - 118km SE of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vfked
-",nc72134201,",0.93,md,0,earthquake,",nc,",,,"M 0.9 - 16km NNE of Angwin, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134201
-",ak10931255,ak0141vb3vb,",2.0,ml,0,earthquake,",ak,ak,",,,"M 2.0 - 25km WSW of Y, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vb3vb
-",usb000m2vy,",4.6,mb,0,earthquake,",us,",,,"M 4.6 - 88km SSW of Masachapa, Nicaragua",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vy
-",nc72134196,",0.43,md,0,earthquake,",nc,",,,"M 0.4 - 6km W of Middletown, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134196
-",ak0141uv9w4,",1.8,ml,0,earthquake,",ak,",,,"M 1.8 - Andreanof Islands, Aleutian Islands, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141uv9w4
-",ci11408658,",0.38,ml,0,earthquake,",ci,",,,"M 0.4 - 8km ENE of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408658
-",usb000m2vw,",4.1,mb,0,earthquake,",us,",,,"M 4.1 - 80km NW of Agrihan, Northern Mariana Islands",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vw
-",nc72134191,",1.25,md,0,earthquake,",nc,",,,"M 1.3 - 5km WNW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134191
-",uu60050632,",1.79,ml,0,earthquake,",uu,",,,"M 1.8 - 15km SE of Fredonia, Arizona",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050632
-",mb14595454,",1.4,Md,0,earthquake,",mb,",,,"M 1.4 - 29km SW of Lima, Montana",https://earthquake.usgs.gov/earthquakes/eventpage/mb14595454
-",ci11408650,",0.75,ml,0,earthquake,",ci,",,,"M 0.8 - 10km NE of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408650
-",uw60664346,",0.43,md,0,earthquake,",uw,",,,"M 0.4 - 19km E of Kelso, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664346
-",nc72134181,",0.27,md,0,earthquake,",nc,",,,"M 0.3 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134181
-",ci11408642,",0.16,ml,0,earthquake,",ci,",,,"M 0.2 - 15km E of Little Lake, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408642
-",nc72134176,",0.87,md,0,earthquake,",nc,",,,"M 0.9 - 1km NNE of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134176
-",usb000m2vu,",4.2,mb,0,earthquake,",us,",,,"M 4.2 - 280km ENE of Dili, East Timor",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vu
-",ci11408634,",0.26,ml,0,earthquake,",ci,",,,"M 0.3 - 9km NNE of Banning, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408634
-",usb000m2w0,",4.1,mb,0,earthquake,",us,",,,"M 4.1 - 121km ESE of Bitung, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2w0
-",ak10930291,ak0141u5401,",1.4,ml,0,earthquake,",ak,ak,",,,"M 1.4 - 181km E of Chitina, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141u5401
-",usb000m2wd,",4.0,mb,0,earthquake,",us,",,,"M 4.0 - 156km NE of Calama, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2wd
-",usc000lv8w,",4.6,mb,0,earthquake,",us,",,,M 4.6 - West Chile Rise,https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv8w
-",usb000m2wf,",4.4,mb,0,earthquake,",us,",,,"M 4.4 - 69km NNW of Visokoi Island, ",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2wf
-",nc72134166,",1.14,md,0,earthquake,",nc,",,,"M 1.1 - 13km SSW of Lakeport, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134166
-",ak0141ts6wo,",1.7,ml,0,earthquake,",ak,",,,"M 1.7 - Andreanof Islands, Aleutian Islands, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141ts6wo
-",ak10992854,ak0141tr79l,",1.4,ml,0,earthquake,",ak,ak,",,,"M 1.4 - 73km N of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141tr79l
-",ak10930287,usc000lvdk,ak0141tr68r,",2.5,ml,0,earthquake,",ak,us,ak,",,,"M 2.5 - 82km SSE of Akutan, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvdk
-",nn00435972,",0.0,ml,0,earthquake,",nn,",,,"M 0.0 - 17km E of Hawthorne, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00435972
-",ci11408626,",0.72,ml,0,earthquake,",ci,",,,"M 0.7 - 10km WNW of Garnet, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408626
-",uu60050627,",1.28,ml,0,earthquake,",uu,",,,"M 1.3 - 17km NNE of Old Faithful Geyser, Wyoming",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050627
-",nc72135671,",0.1,md,0,earthquake,",nc,",,,"M 0.1 - 5km WSW of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72135671
-",uu60050622,",1.79,md,0,earthquake,",uu,",,,"M 1.8 - 18km NNE of Old Faithful Geyser, Wyoming",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050622
-",nn00432943,",-0.3,ml,0,earthquake,",nn,",,,M -0.3 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432943
-",usc000lybx,ak0141tm6sy,",2.6,ml,0,earthquake,",us,ak,",,,"M 2.6 - 46km WSW of Amatignak Island, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lybx
-",usb000m2vq,",4.0,mb,0,earthquake,",us,",,,"M 4.0 - 97km SSW of Banda Aceh, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vq
-",ak10992851,ak0141tj0gw,",1.3,ml,0,earthquake,",ak,ak,",,,"M 1.3 - 45km NW of Willow, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141tj0gw
-",usc000lybw,ak0141t9007,",2.9,ml,0,earthquake,",us,ak,",,,"M 2.9 - 117km SE of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lybw
-",nc72134126,",1.99,md,0,earthquake,",nc,",,,"M 2.0 - 5km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134126
-",nc72134121,",0.55,md,0,earthquake,",nc,",,,"M 0.6 - 10km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134121
-",ci11408618,",1.36,ml,0,earthquake,",ci,",,,"M 1.4 - 0km SSW of Orange, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408618
-",nc72134116,",0.73,md,0,earthquake,",nc,",,,"M 0.7 - 6km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134116
-",ak10930273,ak0141t4pzp,",1.8,ml,0,earthquake,",ak,ak,",,,"M 1.8 - 8km SW of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141t4pzp
-",ak0141t41rd,",1.9,ml,0,earthquake,",ak,",,,"M 1.9 - Andreanof Islands, Aleutian Islands, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141t41rd
-",ak10930271,ak0141t2lax,",1.8,ml,0,earthquake,",ak,ak,",,,"M 1.8 - 74km W of Willow, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141t2lax
-",pr14001000,usc000lv8h,",3.2,Md,0,earthquake,",pr,us,",,,"M 3.2 - 89km NW of San Antonio, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr14001000
-",ak10930270,ak0141t1wz8,",1.5,ml,0,earthquake,",ak,ak,",,,"M 1.5 - 36km N of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141t1wz8
-",ci11408610,",0.49,ml,0,earthquake,",ci,",,,"M 0.5 - 14km NW of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408610
-",nn00432942,",-0.7,ml,0,earthquake,",nn,",,,M -0.7 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432942
-",ak10992845,usc000lybb,ak0141szxqo,",2.6,ml,0,earthquake,",ak,us,ak,",,,"M 2.6 - 81km SSE of Cold Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lybb
-",uu60050607,",2.11,ml,0,earthquake,",uu,",,,"M 2.1 - 48km WNW of Tremonton, Utah",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050607
-",nc72134111,",0.9,md,0,earthquake,",nc,",,,"M 0.9 - 7km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134111
-",ak10930267,usc000lvde,ak0141sx0ai,",2.5,ml,0,earthquake,",ak,us,ak,",,,"M 2.5 - 45km S of Tanaga Volcano, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvde
-",nn00557599,",1.1,ml,0,earthquake,",nn,",,,M 1.1 - Central California,https://earthquake.usgs.gov/earthquakes/eventpage/nn00557599
-",nc72134106,",1.3,md,0,earthquake,",nc,",,,"M 1.3 - 6km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134106
-",nc72134101,",0.23,md,0,earthquake,",nc,",,,M 0.2 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134101
-",nc72134096,",1.85,md,0,earthquake,",nc,",,,"M 1.9 - 11km NNE of Angwin, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134096
-",nc72134091,",1.58,md,0,earthquake,",nc,",,,"M 1.6 - 6km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134091
-",ci11408602,",1.11,ml,0,earthquake,",ci,",,,"M 1.1 - 6km NNW of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408602
-",nn00432831,",0.5,ml,0,earthquake,",nn,",,,"M 0.5 - 1km W of Lemmon Valley, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00432831
-",ci11408594,",0.49,ml,0,earthquake,",ci,",,,"M 0.5 - 3km SSW of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408594
-",nc72134086,",0.12,md,0,earthquake,",nc,",,,"M 0.1 - 5km SSW of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134086
-",nc72134081,",0.56,md,0,earthquake,",nc,",,,M 0.6 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134081
-",nn00432828,",0.7,ml,0,earthquake,",nn,",,,"M 0.7 - 8km SSW of Dayton, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00432828
-",usc000lv7u,",4.6,mb,0,earthquake,",us,",,,"M 4.6 - 258km NNE of Ndoi Island, Fiji",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv7u
-",ci11408586,",0.39,ml,0,earthquake,",ci,",,,"M 0.4 - 8km N of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408586
-",nc72134076,",0.07,md,0,earthquake,",nc,",,,M 0.1 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134076
-",nc72134071,",0.18,md,0,earthquake,",nc,",,,"M 0.2 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134071
-",ci11408578,",0.47,ml,0,earthquake,",ci,",,,"M 0.5 - 10km NNW of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408578
-",nc72134066,",0.9,md,0,earthquake,",nc,",,,"M 0.9 - 8km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134066
-",ak0141rtats,",1.8,ml,0,earthquake,",ak,",,,"M 1.8 - Andreanof Islands, Aleutian Islands, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141rtats
-",nn00432940,",-0.8,ml,0,earthquake,",nn,",,,M -0.8 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432940
-",nc72134051,",1.2,md,0,earthquake,",nc,",,,"M 1.2 - 4km ENE of Laytonville, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134051
-",usc000lv7r,",4.9,mb,0,earthquake,",us,",,,"M 4.9 - 260km W of Kamiiso, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv7r
-",nc72134046,",0.76,md,0,earthquake,",nc,",,,"M 0.8 - 22km NNE of Soledad, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134046
-",nc72134041,",0.31,md,0,earthquake,",nc,",,,"M 0.3 - 5km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134041
-",nc72134036,",0.55,md,0,earthquake,",nc,",,,"M 0.6 - 6km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134036
-",ci11408562,",0.72,ml,0,earthquake,",ci,",,,"M 0.7 - 11km NW of Warner Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408562
-",nc72134031,",0.73,md,0,earthquake,",nc,",,,"M 0.7 - 5km NW of Montalvin, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134031
-",nc72134026,",0.52,md,0,earthquake,",nc,",,,"M 0.5 - 1km NNW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134026
-",nn00432939,",-0.8,ml,0,earthquake,",nn,",,,M -0.8 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432939
-",usb000m2vm,",4.3,mb,0,earthquake,",us,",,,"M 4.3 - 256km N of Marion Island, Prince Edward Islands",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vm
-",usc000lv7j,",4.0,mb,0,earthquake,",us,",,,"M 4.0 - 29km SW of Darab, Iran",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv7j
-",ci11408554,",0.79,ml,0,earthquake,",ci,",,,"M 0.8 - 10km N of Banning, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408554
-",ci11408546,",1.36,ml,0,earthquake,",ci,",,,"M 1.4 - 15km N of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408546
-",nc72134021,",0.9,md,0,earthquake,",nc,",,,"M 0.9 - 6km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134021
-",nc72134016,",1.12,md,0,earthquake,",nc,",,,"M 1.1 - 7km NNE of Cloverdale, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134016
-",ci11408538,",1.05,ml,0,earthquake,",ci,",,,"M 1.1 - 15km NW of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408538
-",ci11408530,",0.89,ml,0,earthquake,",ci,",,,"M 0.9 - 12km ENE of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408530
-",usc000lv8x,",4.5,mb,0,earthquake,",us,",,,"M 4.5 - 60km W of Vallenar, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv8x
-",nn00432937,",-0.9,ml,0,earthquake,",nn,",,,M -0.9 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432937
-",uu60050602,",1.47,md,0,earthquake,",uu,",,,"M 1.5 - 31km SSE of Manti, Utah",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050602
-",ci11408522,",1.25,ml,0,earthquake,",ci,",,,"M 1.3 - 11km SE of Lucerne Valley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408522
-",ci11408514,",0.64,ml,0,earthquake,",ci,",,,"M 0.6 - 7km SE of Valle Vista, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408514
-",nn00432933,",-0.4,ml,0,earthquake,",nn,",,,M -0.4 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432933
-",nc71076849,",0.37,md,0,earthquake,",nc,",,,"M 0.4 - 26km WSW of Coalinga, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc71076849
-",nc72134011,",0.66,md,0,earthquake,",nc,",,,"M 0.7 - 28km WSW of Coalinga, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134011
-",nn00433108,",-0.1,ml,0,earthquake,",nn,",,,M -0.1 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00433108
-",ci11408506,",0.59,ml,0,earthquake,",ci,",,,"M 0.6 - 14km NW of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408506
-",ak10929283,ak0141qlc97,",2.3,ml,0,earthquake,",ak,ak,",,,"M 2.3 - 72km N of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141qlc97
-",ci11408498,",1.23,ml,0,earthquake,",ci,",,,"M 1.2 - 7km SE of Valle Vista, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408498
-",nc72134006,",1.34,md,0,earthquake,",nc,",,,"M 1.3 - 1km SW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134006
-",nn00433106,",-0.5,ml,0,earthquake,",nn,",,,M -0.5 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00433106
-",usc000lv78,",4.7,mb,0,earthquake,",us,",,,M 4.7 - Southern Mid-Atlantic Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv78
-",uu60050592,usc000lv74,",2.92,ml,0,earthquake,",uu,us,",,,"M 2.9 - 23km WSW of Malad City, Idaho",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050592
-",nc72133976,",2.12,md,0,earthquake,",nc,",,,"M 2.1 - 26km NE of Redway, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133976
-",usb000m2vh,",4.1,mb,0,earthquake,",us,",,,"M 4.1 - 30km W of Hachijo-jima, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vh
-",usb000m2vg,",4.1,mb,0,earthquake,",us,",,,"M 4.1 - 233km NW of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vg
-",nc72133971,",0.89,md,0,earthquake,",nc,",,,"M 0.9 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133971
-",uw60664316,",1.03,md,0,earthquake,",uw,",,,"M 1.0 - 4km NNW of White Center, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664316
-",ci11408490,",0.82,ml,0,earthquake,",ci,",,,"M 0.8 - 11km NNE of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408490
-",ak10929275,ak0141py2dm,",1.4,ml,0,earthquake,",ak,ak,",,,"M 1.4 - 39km NE of Nikiski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141py2dm
-",nc72133966,",0.36,md,0,earthquake,",nc,",,,"M 0.4 - 12km SSW of Loyola, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133966
-",ci11408482,",1.03,ml,0,earthquake,",ci,",,,"M 1.0 - 1km W of Beaumont, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408482
-",nn00433105,",-0.9,ml,0,earthquake,",nn,",,,M -0.9 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00433105
-",ak10929272,ak0141pmd6k,",1.6,ml,0,earthquake,",ak,ak,",,,"M 1.6 - 122km W of Willow, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141pmd6k
-",ak10928805,usc000lvdc,ak0141pk3m0,",2.9,ml,0,earthquake,",ak,us,ak,",,,"M 2.9 - 158km SE of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvdc
-",nc72133961,",0.57,md,0,earthquake,",nc,",,,"M 0.6 - 19km SE of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133961
-",nn00432825,",0.9,ml,0,earthquake,",nn,",,,M 0.9 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432825
-",ci11408474,",1.01,ml,0,earthquake,",ci,",,,"M 1.0 - 9km N of Rancho Cucamonga, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408474
-",nc71076564,",0.4,md,0,earthquake,",nc,",,,"M 0.4 - 19km SE of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc71076564
-",nc72133956,",1.05,md,0,earthquake,",nc,",,,"M 1.1 - 25km NNW of Laytonville, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133956
-",ak10928802,ak0141pitqc,",1.8,ml,0,earthquake,",ak,ak,",,,"M 1.8 - 87km NNW of Nikiski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141pitqc
-",nm010114a,nm610251,",1.9,md,0,earthquake,",nm,nm,",,,"M 1.9 - 2km SE of Fairfield Bay, Arkansas",https://earthquake.usgs.gov/earthquakes/eventpage/nm610251
-",nc72133951,",1.32,md,0,earthquake,",nc,",,,"M 1.3 - 23km ESE of Yosemite Valley, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133951
-",ci11408466,",0.39,ml,0,earthquake,",ci,",,,"M 0.4 - 18km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408466
-",nc72133946,",0.69,md,0,earthquake,",nc,",,,"M 0.7 - 19km SE of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133946
-",usc000lv6s,",4.1,mb,0,earthquake,",us,",,,"M 4.1 - 297km NE of Dili, East Timor",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv6s
-",nc72133941,",0.43,md,0,earthquake,",nc,",,,"M 0.4 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133941
-",nc72133936,",0.43,md,0,earthquake,",nc,",,,"M 0.4 - 7km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133936
-",nc72133931,",1.46,md,0,earthquake,",nc,",,,"M 1.5 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133931
-",uu60050582,",0.7,md,0,earthquake,",uu,",,,"M 0.7 - 12km NW of West Yellowstone, Montana",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050582
-",ci11408458,",1.42,ml,0,earthquake,",ci,",,,"M 1.4 - 6km NNE of Chatsworth, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408458
-",nc72133921,",0.59,md,0,earthquake,",nc,",,,"M 0.6 - 2km SE of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133921
-",nc72133916,",0.75,md,0,earthquake,",nc,",,,"M 0.8 - 5km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133916
-",nc72133926,",1.13,md,0,earthquake,",nc,",,,"M 1.1 - 24km SE of Yosemite Valley, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133926
-",usb000m2vf,",4.1,mb,0,earthquake,",us,",,,"M 4.1 - 74km SW of Lata, Solomon Islands",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vf
-",nc72133911,",0.45,md,0,earthquake,",nc,",,,"M 0.5 - 7km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133911
-",mb14069302,",1.9,Md,0,earthquake,",mb,",,,"M 1.9 - 41km WSW of Lakeside, Montana",https://earthquake.usgs.gov/earthquakes/eventpage/mb14069302
-",mb14746480,",1.6,Md,0,earthquake,",mb,",,,"M 1.6 - 48km NE of Thompson Falls, Montana",https://earthquake.usgs.gov/earthquakes/eventpage/mb14746480
-",nc72133906,",1.14,md,0,earthquake,",nc,",,,"M 1.1 - 24km SE of Yosemite Valley, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133906
-",ak10928787,ak0141ozwh5,",1.6,ml,0,earthquake,",ak,ak,",,,"M 1.6 - 77km NNW of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141ozwh5
-",nc72133901,",1.15,md,0,earthquake,",nc,",,,"M 1.2 - 26km SE of Yosemite Valley, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133901
-",nc72133896,",0.56,md,0,earthquake,",nc,",,,"M 0.6 - 7km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133896
-",nn00432932,",-0.6,ml,0,earthquake,",nn,",,,M -0.6 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432932
-",ak10928709,ak0141owvrl,",1.6,ml,0,earthquake,",ak,ak,",,,"M 1.6 - 63km W of Willow, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141owvrl
-",nn00432821,",1.1,ml,0,earthquake,",nn,",,,M 1.1 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432821
-",nc72133891,",1.01,md,0,earthquake,",nc,",,,"M 1.0 - 7km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133891
-",ak10928704,ak0141otvu1,",2.3,ml,0,earthquake,",ak,ak,",,,"M 2.3 - 174km E of Chitina, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141otvu1
-",nc72133886,",1.26,md,0,earthquake,",nc,",,,"M 1.3 - 24km WSW of Coalinga, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133886
-",nc72133881,",0.23,md,0,earthquake,",nc,",,,"M 0.2 - 4km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133881
-",ci11408450,",2.4,ml,0,earthquake,",ci,",,,"M 2.4 - 10km NNE of Ocotillo Wells, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408450
-",hv60614066,",2.48,ml,0,earthquake,",hv,",,,"M 2.5 - 8 km N of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv60614066
-",hv60614061,",0.79,md,0,earthquake,",hv,",,,"M 0.8 - 15 km S of Fern Forest, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv60614061
-",nc72133871,",0.45,md,0,earthquake,",nc,",,,M 0.5 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72133871
-",nc72133866,",0.43,md,0,earthquake,",nc,",,,"M 0.4 - 7km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133866
-",nc72133861,",1.05,md,0,earthquake,",nc,",,,"M 1.1 - 7km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133861
-",nc72133856,",0.55,md,0,earthquake,",nc,",,,"M 0.6 - 27km W of Chester, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133856
-",uu60050572,",2.19,ml,0,earthquake,",uu,",,,"M 2.2 - 23km WSW of Malad City, Idaho",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050572
-",usb000m2ve,",4.3,mb,0,earthquake,",us,",,,"M 4.3 - 68km NNW of Pagudpud, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2ve
-",ak10992834,usc000lyb9,ak0141o9pt6,",2.9,ml,0,earthquake,",ak,us,ak,",,,"M 2.9 - 134km SSE of False Pass, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lyb9
-",usb000m2vd,",4.2,mb,0,earthquake,",us,",,,"M 4.2 - 194km S of Taron, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vd
-",ci11408442,",0.58,ml,0,earthquake,",ci,",,,"M 0.6 - 15km N of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408442
-",ak10928675,ak0141o4wki,",1.8,ml,0,earthquake,",ak,ak,",,,"M 1.8 - 32km E of Redoubt Volcano, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141o4wki
-",ak10992832,ak0141nuxdx,",2.3,ml,0,earthquake,",ak,ak,",,,"M 2.3 - 87km SE of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141nuxdx
-",ci11408434,",0.1,ml,0,earthquake,",ci,",,,"M 0.1 - 21km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408434
-",ak10992831,ak0141ntf85,",1.3,ml,0,earthquake,",ak,ak,",,,"M 1.3 - 74km SSE of Deltana, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141ntf85
-",uw60664276,",0.22,md,0,earthquake,",uw,",,,"M 0.2 - 21km NNW of Amboy, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664276
-",nc72133846,",1.07,md,0,earthquake,",nc,",,,"M 1.1 - 4km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133846
-",hv60614021,",2.08,ml,0,earthquake,",hv,",,,"M 2.1 - 18 km SE of Fern Forest, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv60614021
-",ak10992830,ak0141nol21,",2.0,ml,0,earthquake,",ak,ak,",,,"M 2.0 - 46km SSW of Redoubt Volcano, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141nol21
-",nc72133841,",0.57,md,0,earthquake,",nc,",,,"M 0.6 - 9km WNW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133841
-",usc000lv5j,",4.5,mb,0,earthquake,",us,",,,"M 4.5 - 163km W of Neiafu, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv5j
-",usc000lv5e,",5.1,mb,0,earthquake,",us,",,,"M 5.1 - 76km NNW of Davila, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv5e
+ci11408890,1.29,ml,0,earthquake,/ci/,,,"M 1.3 - 10km SSW of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408890
+ak10992887ak01421ig3u,1.1,ml,0,earthquake,/ak/ak/,,,"M 1.1 - 117km NW of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak01421ig3u
+ak10934318ak01421i2zj,1.2,ml,0,earthquake,/ak/ak/,,,"M 1.2 - 6km SSW of Big Lake, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak01421i2zj
+ak10992885ak01421heui,1.4,ml,0,earthquake,/ak/ak/,,,"M 1.4 - 63km NW of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak01421heui
+usc000mnnn,4.0,ml,0,earthquake,/us/,,,"M 4.0 - 27km WNW of Coquimbo, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/usc000mnnn
+nc72134466,0.53,md,0,earthquake,/nc/,,,"M 0.5 - 4km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134466
+nc72134461,0.7,md,0,earthquake,/nc/,,,"M 0.7 - 6km E of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134461
+ci11408882,0.47,ml,0,earthquake,/ci/,,,"M 0.5 - 11km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408882
+nn00557597,0.6,ml,0,earthquake,/nn/,,,M 0.6 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00557597
+usb000m2w9,4.2,mb,0,earthquake,/us/,,,M 4.2 - South of the Fiji Islands,https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2w9
+ak10992884ak01421dpqr,1.8,ml,0,earthquake,/ak/ak/,,,"M 1.8 - 74km SW of Unalaska, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak01421dpqr
+usb000m2wa,4.2,mb,0,earthquake,/us/,,,"M 4.2 - 269km S of Amahusu, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2wa
+uw60664506,0.64,md,0,earthquake,/uw/,,,"M 0.6 - 12km E of Victoria, Canada",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664506
+nn00557596,0.3,ml,0,earthquake,/nn/,,,M 0.3 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00557596
+pr14001004usc000lvhk,2.7,Md,0,earthquake,/pr/us/,,,"M 2.7 - 4km SW of Guaynabo, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr14001004
+ci11408874,0.3,mh,0,earthquake,/ci/,,,"M 0.3 - 10km SW of Niland, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408874
+usc000mh9r,4.0,md,0,earthquake,/us/,,,"M 4.0 - 18km ESE of Playa Vicente, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/usc000mh9r
+nn00432852,0.3,ml,0,earthquake,/nn/,,,"M 0.3 - 53km NNW of Pahrump, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00432852
+nc72134456,0.35,md,0,earthquake,/nc/,,,"M 0.4 - 12km SE of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134456
+ci11408866,1.88,ml,0,earthquake,/ci/,,,"M 1.9 - 13km W of Alberto Oviedo Mota, B.C., MX",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408866
+nc72134451,1.24,md,0,earthquake,/nc/,,,"M 1.2 - 1km ESE of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134451
+nn00432850nc72134446,0.68,md,0,earthquake,/nn/nc/,,,"M 0.7 - 2km ESE of Bishop, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134446
+nc72134441,0.52,md,0,earthquake,/nc/,,,M 0.5 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134441
+nc72134436,1.05,md,0,earthquake,/nc/,,,"M 1.1 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134436
+usb000m2w8,4.6,mb,0,earthquake,/us/,,,"M 4.6 - 36km WNW of Sola, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2w8
+nn00557595,0.8,ml,0,earthquake,/nn/,,,M 0.8 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00557595
+uw60664496,-0.33,md,0,earthquake,/uw/,,,"M -0.3 - 27km NNW of Packwood, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664496
+ci11408858,0.53,ml,0,earthquake,/ci/,,,"M 0.5 - 5km SW of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408858
+nc72134431nn00432849ci11408850,2.51,md,0,earthquake,/nc/nn/ci/,,,"M 2.5 - 24km N of Dixon Lane-Meadow Creek, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134431
+nc72134426,0.54,md,0,earthquake,/nc/,,,"M 0.5 - 4km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134426
+nn00557594,0.4,ml,0,earthquake,/nn/,,,M 0.4 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00557594
+nc72134421,1.42,md,0,earthquake,/nc/,,,"M 1.4 - 5km WNW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134421
+ci11408842,0.45,ml,0,earthquake,/ci/,,,"M 0.5 - 20km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408842
+nc72134411,0.67,md,0,earthquake,/nc/,,,"M 0.7 - 6km E of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134411
+nc72134416,0.34,md,0,earthquake,/nc/,,,"M 0.3 - 6km E of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134416
+nc72134406,0.13,md,0,earthquake,/nc/,,,"M 0.1 - 7km ESE of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134406
+usb000m2w5,4.4,mb,0,earthquake,/us/,,,M 4.4 - Southern Mid-Atlantic Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2w5
+ak10933810ak01420nv25,1.8,ml,0,earthquake,/ak/ak/,,,"M 1.8 - 32km WNW of Valdez, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak01420nv25
+nc72134401,0.6,md,0,earthquake,/nc/,,,"M 0.6 - 6km E of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134401
+ak10933808ak01420e5d8,1.9,ml,0,earthquake,/ak/ak/,,,"M 1.9 - 57km ESE of Whittier, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak01420e5d8
+nc72134396,0.57,md,0,earthquake,/nc/,,,M 0.6 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134396
+nc72134391,0.46,md,0,earthquake,/nc/,,,"M 0.5 - 7km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134391
+ak10933806ak01420bray,2.4,ml,0,earthquake,/ak/ak/,,,"M 2.4 - 82km SW of Unalaska, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak01420bray
+nc72134386,1.3,md,0,earthquake,/nc/,,,"M 1.3 - 7km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134386
+nn00432847,0.0,ml,0,earthquake,/nn/,,,M 0.0 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432847
+ak10933803ak0142097uf,0.5,ml,0,earthquake,/ak/ak/,,,"M 0.5 - 1km ENE of Badger, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0142097uf
+usb000m2w4,4.0,mb,0,earthquake,/us/,,,"M 4.0 - 216km NW of Saumlaki, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2w4
+nc72134381,0.59,md,0,earthquake,/nc/,,,"M 0.6 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134381
+ci11408834,1.0,ml,0,earthquake,/ci/,,,"M 1.0 - 10km NE of Indio, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408834
+usc000lvew,4.7,mb,0,earthquake,/us/,,,"M 4.7 - 69km ENE of Amahai, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvew
+nc72134376,1.4,md,0,earthquake,/nc/,,,"M 1.4 - 11km SSE of Chester, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134376
+nn00557593,1.0,ml,0,earthquake,/nn/,,,M 1.0 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00557593
+usc000lven,4.5,mb,0,earthquake,/us/,,,"M 4.5 - 180km SSE of Sinabang, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lven
+ci11408826,1.98,ml,0,earthquake,/ci/,,,"M 2.0 - 11km W of Alberto Oviedo Mota, B.C., MX",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408826
+ci11408810,0.08,ml,0,earthquake,/ci/,,,"M 0.1 - 12km ENE of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408810
+nn00557592,1.6,ml,0,earthquake,/nn/,,,M 1.6 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00557592
+ak10933303ak0141zqs5j,1.9,ml,0,earthquake,/ak/ak/,,,"M 1.9 - 72km W of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141zqs5j
+ak10992878ak0141znedj,1.9,ml,0,earthquake,/ak/ak/,,,"M 1.9 - 72km E of Bear Creek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141znedj
+hv60614426,1.32,md,0,earthquake,/hv/,,,"M 1.3 - 13 km ENE of Honaunau-Napoopoo, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv60614426
+nc72134371,0.87,md,0,earthquake,/nc/,,,"M 0.9 - 3km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134371
+nc72134366,0.52,md,0,earthquake,/nc/,,,M 0.5 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134366
+uw60664436,0.71,md,0,earthquake,/uw/,,,"M 0.7 - 1km WSW of Wauna, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664436
+nc72134361,1.45,md,0,earthquake,/nc/,,,"M 1.5 - 2km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134361
+ci11408802,0.97,ml,0,earthquake,/ci/,,,"M 1.0 - 10km NE of Indio, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408802
+nc72134356,0.47,md,0,earthquake,/nc/,,,M 0.5 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134356
+nc72134346,0.63,md,0,earthquake,/nc/,,,"M 0.6 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134346
+nn00432844nc72134351,1.63,md,0,earthquake,/nn/nc/,,,"M 1.6 - 13km SW of Westwood, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134351
+ci11408794,1.02,ml,0,earthquake,/ci/,,,"M 1.0 - 4km S of Wofford Heights, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408794
+ak10992877ak0141z3tbj,2.1,ml,0,earthquake,/ak/ak/,,,"M 2.1 - 84km SW of Sand Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141z3tbj
+ci11408786,0.45,ml,0,earthquake,/ci/,,,"M 0.5 - 20km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408786
+nn00433110,0.0,ml,0,earthquake,/nn/,,,"M 0.0 - 61km WNW of Beatty, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00433110
+ak10933282ak0141z0he7,2.1,ml,0,earthquake,/ak/ak/,,,"M 2.1 - 77km NNE of Redoubt Volcano, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141z0he7
+nc72134341,-0.01,md,0,earthquake,/nc/,,,"M 0.0 - Long Valley area, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134341
+usc000lvdi,4.3,mb,0,earthquake,/us/,,,"M 4.3 - 61km NW of Meulaboh, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvdi
+ak10932788ak0141yy0lj,1.9,ml,0,earthquake,/ak/ak/,,,"M 1.9 - 32km WNW of Seward, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141yy0lj
+ci11408778,0.13,ml,0,earthquake,/ci/,,,"M 0.1 - 11km ENE of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408778
+nc72134326,0.28,md,0,earthquake,/nc/,,,"M 0.3 - 3km NNW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134326
+nc72134331,0.07,md,0,earthquake,/nc/,,,M 0.1 - Central California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134331
+nc72134321,0.66,md,0,earthquake,/nc/,,,"M 0.7 - 27km NE of Soledad, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134321
+nc72134316,0.84,md,0,earthquake,/nc/,,,M 0.8 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134316
+ak10932785ak0141yiwht,1.4,ml,0,earthquake,/ak/ak/,,,"M 1.4 - 8km SSE of Willow, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141yiwht
+ci11408770,1.26,ml,0,earthquake,/ci/,,,"M 1.3 - 3km S of Wofford Heights, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408770
+ld60052526,1.88,ml,0,earthquake,/ld/,,,"M 1.9 - 8km N of Rigaud, Canada",https://earthquake.usgs.gov/earthquakes/eventpage/ld60052526
+ak10932782ak0141yfv0b,1.9,ml,0,earthquake,/ak/ak/,,,"M 1.9 - 54km N of Valdez, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141yfv0b
+nn00432945,-0.3,ml,0,earthquake,/nn/,,,M -0.3 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432945
+nc72134311,0.52,md,0,earthquake,/nc/,,,"M 0.5 - 5km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134311
+ci11408762,0.68,ml,0,earthquake,/ci/,,,"M 0.7 - 5km S of Wofford Heights, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408762
+ak10932779ak0141yc0st,1.3,ml,0,earthquake,/ak/ak/,,,"M 1.3 - 152km SSE of Tok, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141yc0st
+nc72134306,0.56,md,0,earthquake,/nc/,,,"M 0.6 - 6km WSW of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134306
+nc72134296,0.53,md,0,earthquake,/nc/,,,"M 0.5 - 3km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134296
+nn00432944,-0.2,ml,0,earthquake,/nn/,,,M -0.2 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432944
+nc72135686,0.34,md,0,earthquake,/nc/,,,"M 0.3 - 7km WSW of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72135686
+nc71076964,0.37,md,0,earthquake,/nc/,,,"M 0.4 - 10km W of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc71076964
+nc71076969,0.81,md,0,earthquake,/nc/,,,"M 0.8 - 19km W of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc71076969
+ci11408754,1.44,ml,0,earthquake,/ci/,,,"M 1.4 - 9km N of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408754
+ci11408746,0.35,ml,0,earthquake,/ci/,,,"M 0.4 - 8km NNW of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408746
+ci11408738,1.1,ml,0,earthquake,/ci/,,,"M 1.1 - 4km S of Wofford Heights, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408738
+usc000lvd6,4.7,mb,0,earthquake,/us/,,,"M 4.7 - 46km ESE of Farallon de Pajaros, Northern Mariana Islands",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvd6
+nc72134291,0.85,md,0,earthquake,/nc/,,,"M 0.9 - 6km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134291
+ci11408730,-0.05,ml,0,earthquake,/ci/,,,"M -0.1 - 10km SSW of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408730
+uw60664401,1.43,md,0,earthquake,/uw/,,,"M 1.4 - 2km WSW of Wauna, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664401
+usc000lybyak0141xsvzt,3.6,ml,0,earthquake,/us/ak/,,,"M 3.6 - 64km SE of Tanaga Volcano, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lyby
+nc72134286,1.98,md,0,earthquake,/nc/,,,"M 2.0 - 9km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134286
+ci11408722,0.93,ml,0,earthquake,/ci/,,,"M 0.9 - 7km NNW of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408722
+ak10932281ak0141xp2vj,1.6,ml,0,earthquake,/ak/ak/,,,"M 1.6 - 34km N of Nikiski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141xp2vj
+ak10932278ak0141xowd6,1.4,ml,0,earthquake,/ak/ak/,,,"M 1.4 - 119km W of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141xowd6
+ci11408714,1.22,ml,0,earthquake,/ci/,,,"M 1.2 - 6km WSW of Calipatria, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408714
+hv60614356,1.92,md,0,earthquake,/hv/,,,"M 1.9 - 14 km E of Naalehu, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv60614356
+hv60614346,1.97,ml,0,earthquake,/hv/,,,"M 2.0 - 11 km SSE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv60614346
+nc72134281,1.03,md,0,earthquake,/nc/,,,"M 1.0 - 10km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134281
+uw60664386,0.19,md,0,earthquake,/uw/,,,"M 0.2 - 22km S of Sequim, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664386
+pr14001003,1.4,Md,0,earthquake,/pr/,,,"M 1.4 - 10km SSE of Pole Ojea, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr14001003
+usc000lvcu,4.6,mb,0,earthquake,/us/,,4.509,"M 4.6 - 21km ESE of Pospelikha, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvcu
+nc72134966,0.51,md,0,earthquake,/nc/,,,"M 0.5 - 23km E of Shingletown, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134966
+nc72134271,1.03,md,0,earthquake,/nc/,,,"M 1.0 - 3km S of San Juan Bautista, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134271
+nc72134266,0.53,md,0,earthquake,/nc/,,,"M 0.5 - 5km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134266
+hv60614331,1.26,md,0,earthquake,/hv/,,,"M 1.3 - 19 km S of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv60614331
+nc72134256,0.57,md,0,earthquake,/nc/,,,M 0.6 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134256
+usc000lvb7,4.9,mb,0,earthquake,/us/,,,"M 4.9 - 55km NW of Abra Pampa, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvb7
+nc72134251,1.03,md,0,earthquake,/nc/,,,"M 1.0 - 1km NE of Shandon, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134251
+usc000mh9l,4.2,mb,0,earthquake,/us/,,,"M 4.2 - 63km S of Tecoanapa, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/usc000mh9l
+pt14001000at00myqclsusc000lvb5,6.5,mww,1,earthquake,/pt/at/us/,,4.262,"M 6.5 - 32km W of Sola, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvb5
+ci11408698,0.96,ml,0,earthquake,/ci/,,,"M 1.0 - 4km S of Wofford Heights, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408698
+ci11408690nc72134246usc000lvaw,3.02,ml,0,earthquake,/ci/nc/us/,32.0,,"M 3.0 - 5km SSW of Wofford Heights, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408690
+ci11408682,0.4,ml,0,earthquake,/ci/,,,"M 0.4 - 20km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408682
+ak10931757ak0141wqmf3,2.1,ml,0,earthquake,/ak/ak/,,,"M 2.1 - 85km ENE of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141wqmf3
+nc72134241,-0.12,md,0,earthquake,/nc/,,,"M -0.1 - Long Valley area, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134241
+ak10992867ak0141wo8gs,2.3,ml,0,earthquake,/ak/ak/,,,"M 2.3 - 102km ESE of Akutan, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141wo8gs
+usb000m2w2,4.3,mb,0,earthquake,/us/,,,"M 4.3 - 106km ESE of Manay, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2w2
+nc72134236,1.31,md,0,earthquake,/nc/,,,"M 1.3 - 1km NNW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134236
+usb000m2w1,4.6,mb,0,earthquake,/us/,,,"M 4.6 - 61km WNW of Port-Vila, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2w1
+nc72134226nn00432895,0.73,md,0,earthquake,/nc/nn/,,,"M 0.7 - 16km WNW of West Bishop, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134226
+nn00432834,0.6,ml,0,earthquake,/nn/,,,"M 0.6 - 24km WSW of Smith Valley, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00432834
+nc72134221,0.68,md,0,earthquake,/nc/,,,"M 0.7 - 7km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134221
+usc000lval,4.9,mb,0,earthquake,/us/,,,"M 4.9 - 21km ESE of Takahagi, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lval
+usc000lva0,4.9,mb,0,earthquake,/us/,,,M 4.9 - East of the North Island of New Zealand,https://earthquake.usgs.gov/earthquakes/eventpage/usc000lva0
+nc72134216,1.42,md,0,earthquake,/nc/,,,"M 1.4 - 17km SW of Chester, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134216
+ak10931272ak0141vxoqy,1.3,ml,0,earthquake,/ak/ak/,,,"M 1.3 - 109km NW of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vxoqy
+pr14001002,2.2,Md,0,earthquake,/pr/,,,"M 2.2 - 40km SE of Emajagua, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr14001002
+ci11408674,-0.07,ml,0,earthquake,/ci/,,,"M -0.1 - 11km NE of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408674
+ak10992865ak0141vx893,2.5,ml,0,earthquake,/ak/ak/,,,"M 2.5 - 186km SSE of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vx893
+ak10931270ak0141vwz0z,1.6,ml,0,earthquake,/ak/ak/,,,"M 1.6 - 107km NW of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vwz0z
+usb000m2vz,4.0,mb,0,earthquake,/us/,,,"M 4.0 - 27km W of Finschhafen, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vz
+ci11408666,0.52,ml,0,earthquake,/ci/,,,"M 0.5 - 18km NW of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408666
+ak0141vlgri,0.3,ml,0,earthquake,/ak/,,,M 0.3 - Southern Alaska,https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vlgri
+nc72134211,1.38,md,0,earthquake,/nc/,,,"M 1.4 - 3km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134211
+ak10931263,0.4,ml,0,earthquake,/ak/,,,"M 0.4 - 78km NW of Nikiski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak10931263
+ak10931264ak0141vjqkq,1.7,ml,0,earthquake,/ak/ak/,,,"M 1.7 - 53km ENE of Valdez, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vjqkq
+pr14001001usc000lvay,2.5,Md,0,earthquake,/pr/us/,,,"M 2.5 - 13km WNW of Rincon, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr14001001
+ak10931261ak0141vhrac,1.7,ml,0,earthquake,/ak/ak/,,,"M 1.7 - 28km WSW of Ester, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vhrac
+nc72134206,0.36,md,0,earthquake,/nc/,,,"M 0.4 - 2km SSE of Ladera, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134206
+ak10931258ak0141vhakz,2.4,ml,0,earthquake,/ak/ak/,,,"M 2.4 - 56km SSE of Akutan, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vhakz
+ak10992859ak0141vfked,1.8,ml,0,earthquake,/ak/ak/,,,"M 1.8 - 118km SE of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vfked
+nc72134201,0.93,md,0,earthquake,/nc/,,,"M 0.9 - 16km NNE of Angwin, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134201
+ak10931255ak0141vb3vb,2.0,ml,0,earthquake,/ak/ak/,,,"M 2.0 - 25km WSW of Y, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141vb3vb
+usb000m2vy,4.6,mb,0,earthquake,/us/,,,"M 4.6 - 88km SSW of Masachapa, Nicaragua",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vy
+nc72134196,0.43,md,0,earthquake,/nc/,,,"M 0.4 - 6km W of Middletown, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134196
+ak0141uv9w4,1.8,ml,0,earthquake,/ak/,,,"M 1.8 - Andreanof Islands, Aleutian Islands, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141uv9w4
+ci11408658,0.38,ml,0,earthquake,/ci/,,,"M 0.4 - 8km ENE of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408658
+usb000m2vw,4.1,mb,0,earthquake,/us/,,,"M 4.1 - 80km NW of Agrihan, Northern Mariana Islands",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vw
+nc72134191,1.25,md,0,earthquake,/nc/,,,"M 1.3 - 5km WNW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134191
+uu60050632,1.79,ml,0,earthquake,/uu/,,,"M 1.8 - 15km SE of Fredonia, Arizona",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050632
+mb14595454,1.4,Md,0,earthquake,/mb/,,,"M 1.4 - 29km SW of Lima, Montana",https://earthquake.usgs.gov/earthquakes/eventpage/mb14595454
+ci11408650,0.75,ml,0,earthquake,/ci/,,,"M 0.8 - 10km NE of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408650
+uw60664346,0.43,md,0,earthquake,/uw/,,,"M 0.4 - 19km E of Kelso, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664346
+nc72134181,0.27,md,0,earthquake,/nc/,,,"M 0.3 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134181
+ci11408642,0.16,ml,0,earthquake,/ci/,,,"M 0.2 - 15km E of Little Lake, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408642
+nc72134176,0.87,md,0,earthquake,/nc/,,,"M 0.9 - 1km NNE of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134176
+usb000m2vu,4.2,mb,0,earthquake,/us/,,,"M 4.2 - 280km ENE of Dili, East Timor",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vu
+ci11408634,0.26,ml,0,earthquake,/ci/,,,"M 0.3 - 9km NNE of Banning, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408634
+usb000m2w0,4.1,mb,0,earthquake,/us/,,,"M 4.1 - 121km ESE of Bitung, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2w0
+ak10930291ak0141u5401,1.4,ml,0,earthquake,/ak/ak/,,,"M 1.4 - 181km E of Chitina, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141u5401
+usb000m2wd,4.0,mb,0,earthquake,/us/,,,"M 4.0 - 156km NE of Calama, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2wd
+usc000lv8w,4.6,mb,0,earthquake,/us/,,,M 4.6 - West Chile Rise,https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv8w
+usb000m2wf,4.4,mb,0,earthquake,/us/,,,"M 4.4 - 69km NNW of Visokoi Island, ",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2wf
+nc72134166,1.14,md,0,earthquake,/nc/,,,"M 1.1 - 13km SSW of Lakeport, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134166
+ak0141ts6wo,1.7,ml,0,earthquake,/ak/,,,"M 1.7 - Andreanof Islands, Aleutian Islands, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141ts6wo
+ak10992854ak0141tr79l,1.4,ml,0,earthquake,/ak/ak/,,,"M 1.4 - 73km N of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141tr79l
+ak10930287usc000lvdkak0141tr68r,2.5,ml,0,earthquake,/ak/us/ak/,,,"M 2.5 - 82km SSE of Akutan, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvdk
+nn00435972,0.0,ml,0,earthquake,/nn/,,,"M 0.0 - 17km E of Hawthorne, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00435972
+ci11408626,0.72,ml,0,earthquake,/ci/,,,"M 0.7 - 10km WNW of Garnet, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408626
+uu60050627,1.28,ml,0,earthquake,/uu/,,,"M 1.3 - 17km NNE of Old Faithful Geyser, Wyoming",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050627
+nc72135671,0.1,md,0,earthquake,/nc/,,,"M 0.1 - 5km WSW of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72135671
+uu60050622,1.79,md,0,earthquake,/uu/,,,"M 1.8 - 18km NNE of Old Faithful Geyser, Wyoming",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050622
+nn00432943,-0.3,ml,0,earthquake,/nn/,,,M -0.3 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432943
+usc000lybxak0141tm6sy,2.6,ml,0,earthquake,/us/ak/,,,"M 2.6 - 46km WSW of Amatignak Island, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lybx
+usb000m2vq,4.0,mb,0,earthquake,/us/,,,"M 4.0 - 97km SSW of Banda Aceh, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vq
+ak10992851ak0141tj0gw,1.3,ml,0,earthquake,/ak/ak/,,,"M 1.3 - 45km NW of Willow, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141tj0gw
+usc000lybwak0141t9007,2.9,ml,0,earthquake,/us/ak/,,,"M 2.9 - 117km SE of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lybw
+nc72134126,1.99,md,0,earthquake,/nc/,,,"M 2.0 - 5km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134126
+nc72134121,0.55,md,0,earthquake,/nc/,,,"M 0.6 - 10km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134121
+ci11408618,1.36,ml,0,earthquake,/ci/,,,"M 1.4 - 0km SSW of Orange, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408618
+nc72134116,0.73,md,0,earthquake,/nc/,,,"M 0.7 - 6km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134116
+ak10930273ak0141t4pzp,1.8,ml,0,earthquake,/ak/ak/,,,"M 1.8 - 8km SW of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141t4pzp
+ak0141t41rd,1.9,ml,0,earthquake,/ak/,,,"M 1.9 - Andreanof Islands, Aleutian Islands, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141t41rd
+ak10930271ak0141t2lax,1.8,ml,0,earthquake,/ak/ak/,,,"M 1.8 - 74km W of Willow, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141t2lax
+pr14001000usc000lv8h,3.2,Md,0,earthquake,/pr/us/,,,"M 3.2 - 89km NW of San Antonio, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr14001000
+ak10930270ak0141t1wz8,1.5,ml,0,earthquake,/ak/ak/,,,"M 1.5 - 36km N of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141t1wz8
+ci11408610,0.49,ml,0,earthquake,/ci/,,,"M 0.5 - 14km NW of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408610
+nn00432942,-0.7,ml,0,earthquake,/nn/,,,M -0.7 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432942
+ak10992845usc000lybbak0141szxqo,2.6,ml,0,earthquake,/ak/us/ak/,,,"M 2.6 - 81km SSE of Cold Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lybb
+uu60050607,2.11,ml,0,earthquake,/uu/,,,"M 2.1 - 48km WNW of Tremonton, Utah",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050607
+nc72134111,0.9,md,0,earthquake,/nc/,,,"M 0.9 - 7km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134111
+ak10930267usc000lvdeak0141sx0ai,2.5,ml,0,earthquake,/ak/us/ak/,,,"M 2.5 - 45km S of Tanaga Volcano, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvde
+nn00557599,1.1,ml,0,earthquake,/nn/,,,M 1.1 - Central California,https://earthquake.usgs.gov/earthquakes/eventpage/nn00557599
+nc72134106,1.3,md,0,earthquake,/nc/,,,"M 1.3 - 6km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134106
+nc72134101,0.23,md,0,earthquake,/nc/,,,M 0.2 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134101
+nc72134096,1.85,md,0,earthquake,/nc/,,,"M 1.9 - 11km NNE of Angwin, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134096
+nc72134091,1.58,md,0,earthquake,/nc/,,,"M 1.6 - 6km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134091
+ci11408602,1.11,ml,0,earthquake,/ci/,,,"M 1.1 - 6km NNW of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408602
+nn00432831,0.5,ml,0,earthquake,/nn/,,,"M 0.5 - 1km W of Lemmon Valley, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00432831
+ci11408594,0.49,ml,0,earthquake,/ci/,,,"M 0.5 - 3km SSW of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408594
+nc72134086,0.12,md,0,earthquake,/nc/,,,"M 0.1 - 5km SSW of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134086
+nc72134081,0.56,md,0,earthquake,/nc/,,,M 0.6 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134081
+nn00432828,0.7,ml,0,earthquake,/nn/,,,"M 0.7 - 8km SSW of Dayton, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00432828
+usc000lv7u,4.6,mb,0,earthquake,/us/,,,"M 4.6 - 258km NNE of Ndoi Island, Fiji",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv7u
+ci11408586,0.39,ml,0,earthquake,/ci/,,,"M 0.4 - 8km N of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408586
+nc72134076,0.07,md,0,earthquake,/nc/,,,M 0.1 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72134076
+nc72134071,0.18,md,0,earthquake,/nc/,,,"M 0.2 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134071
+ci11408578,0.47,ml,0,earthquake,/ci/,,,"M 0.5 - 10km NNW of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408578
+nc72134066,0.9,md,0,earthquake,/nc/,,,"M 0.9 - 8km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134066
+ak0141rtats,1.8,ml,0,earthquake,/ak/,,,"M 1.8 - Andreanof Islands, Aleutian Islands, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141rtats
+nn00432940,-0.8,ml,0,earthquake,/nn/,,,M -0.8 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432940
+nc72134051,1.2,md,0,earthquake,/nc/,,,"M 1.2 - 4km ENE of Laytonville, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134051
+usc000lv7r,4.9,mb,0,earthquake,/us/,,,"M 4.9 - 260km W of Kamiiso, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv7r
+nc72134046,0.76,md,0,earthquake,/nc/,,,"M 0.8 - 22km NNE of Soledad, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134046
+nc72134041,0.31,md,0,earthquake,/nc/,,,"M 0.3 - 5km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134041
+nc72134036,0.55,md,0,earthquake,/nc/,,,"M 0.6 - 6km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134036
+ci11408562,0.72,ml,0,earthquake,/ci/,,,"M 0.7 - 11km NW of Warner Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408562
+nc72134031,0.73,md,0,earthquake,/nc/,,,"M 0.7 - 5km NW of Montalvin, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134031
+nc72134026,0.52,md,0,earthquake,/nc/,,,"M 0.5 - 1km NNW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134026
+nn00432939,-0.8,ml,0,earthquake,/nn/,,,M -0.8 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432939
+usb000m2vm,4.3,mb,0,earthquake,/us/,,,"M 4.3 - 256km N of Marion Island, Prince Edward Islands",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vm
+usc000lv7j,4.0,mb,0,earthquake,/us/,,,"M 4.0 - 29km SW of Darab, Iran",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv7j
+ci11408554,0.79,ml,0,earthquake,/ci/,,,"M 0.8 - 10km N of Banning, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408554
+ci11408546,1.36,ml,0,earthquake,/ci/,,,"M 1.4 - 15km N of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408546
+nc72134021,0.9,md,0,earthquake,/nc/,,,"M 0.9 - 6km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134021
+nc72134016,1.12,md,0,earthquake,/nc/,,,"M 1.1 - 7km NNE of Cloverdale, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134016
+ci11408538,1.05,ml,0,earthquake,/ci/,,,"M 1.1 - 15km NW of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408538
+ci11408530,0.89,ml,0,earthquake,/ci/,,,"M 0.9 - 12km ENE of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408530
+usc000lv8x,4.5,mb,0,earthquake,/us/,,,"M 4.5 - 60km W of Vallenar, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv8x
+nn00432937,-0.9,ml,0,earthquake,/nn/,,,M -0.9 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432937
+uu60050602,1.47,md,0,earthquake,/uu/,,,"M 1.5 - 31km SSE of Manti, Utah",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050602
+ci11408522,1.25,ml,0,earthquake,/ci/,,,"M 1.3 - 11km SE of Lucerne Valley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408522
+ci11408514,0.64,ml,0,earthquake,/ci/,,,"M 0.6 - 7km SE of Valle Vista, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408514
+nn00432933,-0.4,ml,0,earthquake,/nn/,,,M -0.4 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432933
+nc71076849,0.37,md,0,earthquake,/nc/,,,"M 0.4 - 26km WSW of Coalinga, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc71076849
+nc72134011,0.66,md,0,earthquake,/nc/,,,"M 0.7 - 28km WSW of Coalinga, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134011
+nn00433108,-0.1,ml,0,earthquake,/nn/,,,M -0.1 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00433108
+ci11408506,0.59,ml,0,earthquake,/ci/,,,"M 0.6 - 14km NW of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408506
+ak10929283ak0141qlc97,2.3,ml,0,earthquake,/ak/ak/,,,"M 2.3 - 72km N of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141qlc97
+ci11408498,1.23,ml,0,earthquake,/ci/,,,"M 1.2 - 7km SE of Valle Vista, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408498
+nc72134006,1.34,md,0,earthquake,/nc/,,,"M 1.3 - 1km SW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72134006
+nn00433106,-0.5,ml,0,earthquake,/nn/,,,M -0.5 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00433106
+usc000lv78,4.7,mb,0,earthquake,/us/,,,M 4.7 - Southern Mid-Atlantic Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv78
+uu60050592usc000lv74,2.92,ml,0,earthquake,/uu/us/,,,"M 2.9 - 23km WSW of Malad City, Idaho",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050592
+nc72133976,2.12,md,0,earthquake,/nc/,,,"M 2.1 - 26km NE of Redway, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133976
+usb000m2vh,4.1,mb,0,earthquake,/us/,,,"M 4.1 - 30km W of Hachijo-jima, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vh
+usb000m2vg,4.1,mb,0,earthquake,/us/,,,"M 4.1 - 233km NW of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vg
+nc72133971,0.89,md,0,earthquake,/nc/,,,"M 0.9 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133971
+uw60664316,1.03,md,0,earthquake,/uw/,,,"M 1.0 - 4km NNW of White Center, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664316
+ci11408490,0.82,ml,0,earthquake,/ci/,,,"M 0.8 - 11km NNE of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408490
+ak10929275ak0141py2dm,1.4,ml,0,earthquake,/ak/ak/,,,"M 1.4 - 39km NE of Nikiski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141py2dm
+nc72133966,0.36,md,0,earthquake,/nc/,,,"M 0.4 - 12km SSW of Loyola, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133966
+ci11408482,1.03,ml,0,earthquake,/ci/,,,"M 1.0 - 1km W of Beaumont, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408482
+nn00433105,-0.9,ml,0,earthquake,/nn/,,,M -0.9 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00433105
+ak10929272ak0141pmd6k,1.6,ml,0,earthquake,/ak/ak/,,,"M 1.6 - 122km W of Willow, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141pmd6k
+ak10928805usc000lvdcak0141pk3m0,2.9,ml,0,earthquake,/ak/us/ak/,,,"M 2.9 - 158km SE of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lvdc
+nc72133961,0.57,md,0,earthquake,/nc/,,,"M 0.6 - 19km SE of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133961
+nn00432825,0.9,ml,0,earthquake,/nn/,,,M 0.9 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432825
+ci11408474,1.01,ml,0,earthquake,/ci/,,,"M 1.0 - 9km N of Rancho Cucamonga, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408474
+nc71076564,0.4,md,0,earthquake,/nc/,,,"M 0.4 - 19km SE of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc71076564
+nc72133956,1.05,md,0,earthquake,/nc/,,,"M 1.1 - 25km NNW of Laytonville, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133956
+ak10928802ak0141pitqc,1.8,ml,0,earthquake,/ak/ak/,,,"M 1.8 - 87km NNW of Nikiski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141pitqc
+nm010114anm610251,1.9,md,0,earthquake,/nm/nm/,,,"M 1.9 - 2km SE of Fairfield Bay, Arkansas",https://earthquake.usgs.gov/earthquakes/eventpage/nm610251
+nc72133951,1.32,md,0,earthquake,/nc/,,,"M 1.3 - 23km ESE of Yosemite Valley, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133951
+ci11408466,0.39,ml,0,earthquake,/ci/,,,"M 0.4 - 18km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408466
+nc72133946,0.69,md,0,earthquake,/nc/,,,"M 0.7 - 19km SE of Mammoth Lakes, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133946
+usc000lv6s,4.1,mb,0,earthquake,/us/,,,"M 4.1 - 297km NE of Dili, East Timor",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv6s
+nc72133941,0.43,md,0,earthquake,/nc/,,,"M 0.4 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133941
+nc72133936,0.43,md,0,earthquake,/nc/,,,"M 0.4 - 7km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133936
+nc72133931,1.46,md,0,earthquake,/nc/,,,"M 1.5 - 6km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133931
+uu60050582,0.7,md,0,earthquake,/uu/,,,"M 0.7 - 12km NW of West Yellowstone, Montana",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050582
+ci11408458,1.42,ml,0,earthquake,/ci/,,,"M 1.4 - 6km NNE of Chatsworth, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408458
+nc72133921,0.59,md,0,earthquake,/nc/,,,"M 0.6 - 2km SE of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133921
+nc72133916,0.75,md,0,earthquake,/nc/,,,"M 0.8 - 5km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133916
+nc72133926,1.13,md,0,earthquake,/nc/,,,"M 1.1 - 24km SE of Yosemite Valley, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133926
+usb000m2vf,4.1,mb,0,earthquake,/us/,,,"M 4.1 - 74km SW of Lata, Solomon Islands",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vf
+nc72133911,0.45,md,0,earthquake,/nc/,,,"M 0.5 - 7km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133911
+mb14069302,1.9,Md,0,earthquake,/mb/,,,"M 1.9 - 41km WSW of Lakeside, Montana",https://earthquake.usgs.gov/earthquakes/eventpage/mb14069302
+mb14746480,1.6,Md,0,earthquake,/mb/,,,"M 1.6 - 48km NE of Thompson Falls, Montana",https://earthquake.usgs.gov/earthquakes/eventpage/mb14746480
+nc72133906,1.14,md,0,earthquake,/nc/,,,"M 1.1 - 24km SE of Yosemite Valley, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133906
+ak10928787ak0141ozwh5,1.6,ml,0,earthquake,/ak/ak/,,,"M 1.6 - 77km NNW of Talkeetna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141ozwh5
+nc72133901,1.15,md,0,earthquake,/nc/,,,"M 1.2 - 26km SE of Yosemite Valley, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133901
+nc72133896,0.56,md,0,earthquake,/nc/,,,"M 0.6 - 7km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133896
+nn00432932,-0.6,ml,0,earthquake,/nn/,,,M -0.6 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432932
+ak10928709ak0141owvrl,1.6,ml,0,earthquake,/ak/ak/,,,"M 1.6 - 63km W of Willow, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141owvrl
+nn00432821,1.1,ml,0,earthquake,/nn/,,,M 1.1 - Nevada,https://earthquake.usgs.gov/earthquakes/eventpage/nn00432821
+nc72133891,1.01,md,0,earthquake,/nc/,,,"M 1.0 - 7km NW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133891
+ak10928704ak0141otvu1,2.3,ml,0,earthquake,/ak/ak/,,,"M 2.3 - 174km E of Chitina, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141otvu1
+nc72133886,1.26,md,0,earthquake,/nc/,,,"M 1.3 - 24km WSW of Coalinga, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133886
+nc72133881,0.23,md,0,earthquake,/nc/,,,"M 0.2 - 4km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133881
+ci11408450,2.4,ml,0,earthquake,/ci/,,,"M 2.4 - 10km NNE of Ocotillo Wells, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408450
+hv60614066,2.48,ml,0,earthquake,/hv/,,,"M 2.5 - 8 km N of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv60614066
+hv60614061,0.79,md,0,earthquake,/hv/,,,"M 0.8 - 15 km S of Fern Forest, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv60614061
+nc72133871,0.45,md,0,earthquake,/nc/,,,M 0.5 - Northern California,https://earthquake.usgs.gov/earthquakes/eventpage/nc72133871
+nc72133866,0.43,md,0,earthquake,/nc/,,,"M 0.4 - 7km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133866
+nc72133861,1.05,md,0,earthquake,/nc/,,,"M 1.1 - 7km W of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133861
+nc72133856,0.55,md,0,earthquake,/nc/,,,"M 0.6 - 27km W of Chester, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133856
+uu60050572,2.19,ml,0,earthquake,/uu/,,,"M 2.2 - 23km WSW of Malad City, Idaho",https://earthquake.usgs.gov/earthquakes/eventpage/uu60050572
+usb000m2ve,4.3,mb,0,earthquake,/us/,,,"M 4.3 - 68km NNW of Pagudpud, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2ve
+ak10992834usc000lyb9ak0141o9pt6,2.9,ml,0,earthquake,/ak/us/ak/,,,"M 2.9 - 134km SSE of False Pass, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lyb9
+usb000m2vd,4.2,mb,0,earthquake,/us/,,,"M 4.2 - 194km S of Taron, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/usb000m2vd
+ci11408442,0.58,ml,0,earthquake,/ci/,,,"M 0.6 - 15km N of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408442
+ak10928675ak0141o4wki,1.8,ml,0,earthquake,/ak/ak/,,,"M 1.8 - 32km E of Redoubt Volcano, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141o4wki
+ak10992832ak0141nuxdx,2.3,ml,0,earthquake,/ak/ak/,,,"M 2.3 - 87km SE of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141nuxdx
+ci11408434,0.1,ml,0,earthquake,/ci/,,,"M 0.1 - 21km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci11408434
+ak10992831ak0141ntf85,1.3,ml,0,earthquake,/ak/ak/,,,"M 1.3 - 74km SSE of Deltana, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141ntf85
+uw60664276,0.22,md,0,earthquake,/uw/,,,"M 0.2 - 21km NNW of Amboy, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw60664276
+nc72133846,1.07,md,0,earthquake,/nc/,,,"M 1.1 - 4km WNW of Cobb, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133846
+hv60614021,2.08,ml,0,earthquake,/hv/,,,"M 2.1 - 18 km SE of Fern Forest, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv60614021
+ak10992830ak0141nol21,2.0,ml,0,earthquake,/ak/ak/,,,"M 2.0 - 46km SSW of Redoubt Volcano, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak0141nol21
+nc72133841,0.57,md,0,earthquake,/nc/,,,"M 0.6 - 9km WNW of The Geysers, California",https://earthquake.usgs.gov/earthquakes/eventpage/nc72133841
+usc000lv5j,4.5,mb,0,earthquake,/us/,,,"M 4.5 - 163km W of Neiafu, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv5j
+usc000lv5e,5.1,mb,0,earthquake,/us/,,,"M 5.1 - 76km NNW of Davila, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv5e
